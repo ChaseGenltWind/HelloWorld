@@ -1,0 +1,7 @@
+5 zhangshan 80
+7 lisi 70
+1 wangwu 90
+2 zhaoliu 95
+4 fanglei 98
+6 guojia 85
+3 maxiaojun 75
